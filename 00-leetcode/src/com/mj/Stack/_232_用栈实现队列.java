@@ -1,4 +1,4 @@
-package 栈;
+package com.mj.Stack;
 import java.util.Stack;
 
 public class _232_用栈实现队列 {

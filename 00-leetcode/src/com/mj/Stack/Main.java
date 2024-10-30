@@ -1,4 +1,4 @@
-package 栈;
+package com.mj.Stack;
 
 public class Main {
 	public static void main(String[] args) {
